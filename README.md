@@ -1,4 +1,4 @@
-# Financial Planning App
+# MoneyFlow Tracker App 
 
 A simple web application to help you manage your finances. This app allows you to track your income, expenses, and set financial goals. You can also view your transaction history.
 
